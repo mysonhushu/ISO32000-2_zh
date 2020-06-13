@@ -1,9 +1,11 @@
 # ISO32000-2_zh
 ISO32000-2 中文版
+ 
+由于英文版要给钱，搬运不了了。改成搬运 PDF 32000-1：2008 吧
 
 ## 原文地址
 
-![原文版地址](https://www.iso.org/obp/ui/#iso:std:iso:32000:-2:ed-1:v1:en)
+[原文版地址](https://www.iso.org/obp/ui/#iso:std:iso:32000:-2:ed-1:v1:en)
 
 ## 关于翻译
 
