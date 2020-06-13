@@ -3,7 +3,7 @@ ISO32000-2 中文版
 
 ## 原文地址
 
-![原文版地址](https://www.iso.org/obp/ui/#iso:std:iso:32000:-2:ed-1:v1:en)
+[原文版地址](https://www.iso.org/obp/ui/#iso:std:iso:32000:-2:ed-1:v1:en)
 
 ## 关于翻译
 
